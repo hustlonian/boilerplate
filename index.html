@@ -42,10 +42,10 @@ html{box-sizing:border-box;-ms-overflow-style:scrollbar;color:#fff;font-size:1re
       </div>
       <ul class="site-nav inline-block-list">
         <li>
-          <a href="https://github.com/h5bp/html5-boilerplate">Source code</a>
+          <a href="https://github.com/hustlonian/boilerplate">Source code</a>
         </li>
         <li>
-          <a href="https://github.com/h5bp/html5-boilerplate/blob/main/docs/TOC.md">Docs</a>
+          <a href="#">Docs</a>
         </li>
         <li>
           <a href="https://h5bp.org">Other projects</a>
